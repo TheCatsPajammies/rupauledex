@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# rupauledex is a project from gracieevers
+
+This repository is a test of the No Key No Shade: A RuPaul's Drag Race API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
